@@ -1,0 +1,4 @@
+lambda,mu,rho,Wq_teorica,Wq_simulada,IC95,error_pct,teorica_dentro_del_IC
+0.5,1.0,0.5,1.0,0.995,0.007,-0.5,True
+0.7,1.0,0.7,2.333,2.32,0.03,-0.56,True
+0.8,1.0,0.8,4.0,4.003,0.091,0.09,True

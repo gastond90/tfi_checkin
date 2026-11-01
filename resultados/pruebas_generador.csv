@@ -1,0 +1,13 @@
+flujo,prueba,estadistico,p_valor,rechaza_H0
+0 (llegadas),Promedios,0.9076507535506758,0.3640627702876531,False
+0 (llegadas),Chi-cuadrado (k=10),6.62,0.6766151098466553,False
+0 (llegadas),Kolmogorov-Smirnov,0.0066862838217924825,0.7599577040405163,False
+0 (llegadas),Series (5x5),17.48,0.8274812539525496,False
+1 (atributos),Promedios,-0.5430158871040021,0.5871188639456346,False
+1 (atributos),Chi-cuadrado (k=10),10.936,0.2801213493813379,False
+1 (atributos),Kolmogorov-Smirnov,0.008822072106423828,0.41538351273294094,False
+1 (atributos),Series (5x5),27.06,0.3016641386151472,False
+2 (servicio),Promedios,1.2711140989476546,0.20368806025299335,False
+2 (servicio),Chi-cuadrado (k=10),10.802,0.28952543186571145,False
+2 (servicio),Kolmogorov-Smirnov,0.009279672546163076,0.3531396626848551,False
+2 (servicio),Series (5x5),17.34,0.833803314907496,False

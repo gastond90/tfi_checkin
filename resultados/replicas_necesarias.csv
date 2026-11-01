@@ -1,0 +1,2 @@
+escenario,metrica,desvio,semiancho_deseado,replicas_necesarias,replicas_usadas,semiancho_obtenido
+E1_c4,espera_media,2.158,0.5,74,100,0.428
